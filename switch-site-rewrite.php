@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Switch Site Rewrite
-Plugin URI: http://wordpress.org
+Plugin URI: http://wordpress.org/extend/plugins/switch-site-rewrite/
 Description: Makes permalinks work properly when uing switch_to_blog
 Author: John James Jacoby
 Version: 1.0
