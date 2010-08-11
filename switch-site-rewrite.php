@@ -2,7 +2,7 @@
 /*
 Plugin Name: Switch Site Rewrite
 Plugin URI: http://wordpress.org
-Description: Aids in permalink functions from other sites when using switch_to_blog
+Description: Makes permalinks work properly when uing switch_to_blog
 Author: John James Jacoby
 Version: 1.0
 Author URI: http://johnjamesjacoby.com
